@@ -11,7 +11,7 @@ export default async function handler(req, res) {
 
         // Execute the SQL update query for the 'DefenseInfo' table
         const query =
-            'UPDATE reviewinfo SET RMember1Name = ?, RMember2Name = ?, RMember3Name = ? WHERE RGroupID = ?';
+            'UPDATE tmpreviewinfo SET RMember1Name = ?, RMember2Name = ?, RMember3Name = ? WHERE RGroupID = ?';
         const result = await db.query(query, [
             RMember1Name,
             RMember2Name,

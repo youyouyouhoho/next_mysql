@@ -11,7 +11,7 @@ export default async function handler(req, res) {
 
         // Execute the SQL update query for the 'DefenseInfo' table
         const query =
-            'UPDATE predefenseinfo SET PDMember1Name = ?, PDMember2Name = ?, PDMember3Name = ? WHERE PDGroupID = ?';
+            'UPDATE tmppredefenseinfo SET PDMember1Name = ?, PDMember2Name = ?, PDMember3Name = ? WHERE PDGroupID = ?';
         const result = await db.query(query, [
             PDMem1Name,
             PDMem2Name,
