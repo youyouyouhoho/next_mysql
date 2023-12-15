@@ -1,0 +1,540 @@
+INSERT INTO Advisor VALUES('孙亚辉', '081201
+计算机系统结构', '副教授');
+INSERT INTO Advisor VALUES('柴云鹏', '081201
+计算机系统结构', '教授');
+INSERT INTO Advisor VALUES('李彤', '081201
+计算机系统结构', '副教授');
+INSERT INTO Advisor VALUES('王晶', '081201
+计算机系统结构', '副教授');
+INSERT INTO Advisor VALUES('孟小峰', '081202
+计算机软件与理论', '教授');
+INSERT INTO Advisor VALUES('陈文萍', '081202
+计算机软件与理论', '讲师');
+INSERT INTO Advisor VALUES('李德英', '081202
+计算机软件与理论', '教授');
+INSERT INTO Advisor VALUES('王永才', '081202
+计算机软件与理论', '副教授');
+INSERT INTO Advisor VALUES('杜小勇', '081203
+计算机应用技术', '教授');
+INSERT INTO Advisor VALUES('王良', '081203
+计算机应用技术', '副教授');
+INSERT INTO Advisor VALUES('张孝', '081203
+计算机应用技术', '教授');
+INSERT INTO Advisor VALUES('许洁萍', '081203
+计算机应用技术', '副教授');
+INSERT INTO Advisor VALUES('刘青', '081203
+计算机应用技术', '副教授');
+INSERT INTO Advisor VALUES('胡鹤', '081203
+计算机应用技术', '副教授');
+INSERT INTO Advisor VALUES('王秋月', '081203
+计算机应用技术', '副教授');
+INSERT INTO Advisor VALUES('卢卫', '081203
+计算机应用技术', '教授');
+INSERT INTO Advisor VALUES('范举', '081203
+计算机应用技术', '教授');
+INSERT INTO Advisor VALUES('张峰', '081203
+计算机应用技术', '教授');
+INSERT INTO Advisor VALUES('梁彬', '0812Z1
+信息安全', '教授');
+INSERT INTO Advisor VALUES('石文昌', '0812Z1
+信息安全', '教授');
+INSERT INTO Advisor VALUES('秦波', '0812Z1
+信息安全', '副教授');
+INSERT INTO Advisor VALUES('黄建军', '0812Z1
+信息安全', '讲师');
+INSERT INTO Advisor VALUES('游伟', '0812Z1
+信息安全', '副教授');
+INSERT INTO Advisor VALUES('陈红', '0812Z2
+大数据科学与工程', '教授');
+INSERT INTO Advisor VALUES('何军', '0812Z2
+大数据科学与工程', '教授');
+INSERT INTO Advisor VALUES('覃雄派', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('李翠平', '0812Z2
+大数据科学与工程', '教授');
+INSERT INTO Advisor VALUES('覃飙', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('刘桃', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('王璞巍', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('杨刚', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('周春来', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('陈晋川', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('陈跃国', '0812Z2
+大数据科学与工程', '教授');
+INSERT INTO Advisor VALUES('赵素云', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('李锡荣', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('张延松', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('金琴', '0812Z2
+大数据科学与工程', '教授');
+INSERT INTO Advisor VALUES('刘家俊', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('张静', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('王明明', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('左美云', '120100
+管理科学与工程', '教授');
+INSERT INTO Advisor VALUES('孙彩虹', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('蒋洪迅', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('杨波', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('余力', '120100
+管理科学与工程', '教授');
+INSERT INTO Advisor VALUES('许伟', '120100
+管理科学与工程', '教授');
+INSERT INTO Advisor VALUES('张新勇', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('梁循', '120100
+管理科学与工程', '教授');
+INSERT INTO Advisor VALUES('余艳', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('张文平', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('杜玮', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('程絮森', '120100
+管理科学与工程', '教授');
+INSERT INTO Advisor VALUES('黄科满', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('孙亚辉', '081201
+计算机系统结构', '副教授');
+INSERT INTO Advisor VALUES('柴云鹏', '081201
+计算机系统结构', '教授');
+INSERT INTO Advisor VALUES('李彤', '081201
+计算机系统结构', '副教授');
+INSERT INTO Advisor VALUES('王晶', '081201
+计算机系统结构', '副教授');
+INSERT INTO Advisor VALUES('孟小峰', '081202
+计算机软件与理论', '教授');
+INSERT INTO Advisor VALUES('陈文萍', '081202
+计算机软件与理论', '讲师');
+INSERT INTO Advisor VALUES('李德英', '081202
+计算机软件与理论', '教授');
+INSERT INTO Advisor VALUES('王永才', '081202
+计算机软件与理论', '副教授');
+INSERT INTO Advisor VALUES('杜小勇', '081203
+计算机应用技术', '教授');
+INSERT INTO Advisor VALUES('王良', '081203
+计算机应用技术', '副教授');
+INSERT INTO Advisor VALUES('张孝', '081203
+计算机应用技术', '教授');
+INSERT INTO Advisor VALUES('许洁萍', '081203
+计算机应用技术', '副教授');
+INSERT INTO Advisor VALUES('刘青', '081203
+计算机应用技术', '副教授');
+INSERT INTO Advisor VALUES('胡鹤', '081203
+计算机应用技术', '副教授');
+INSERT INTO Advisor VALUES('王秋月', '081203
+计算机应用技术', '副教授');
+INSERT INTO Advisor VALUES('卢卫', '081203
+计算机应用技术', '教授');
+INSERT INTO Advisor VALUES('范举', '081203
+计算机应用技术', '教授');
+INSERT INTO Advisor VALUES('张峰', '081203
+计算机应用技术', '教授');
+INSERT INTO Advisor VALUES('梁彬', '0812Z1
+信息安全', '教授');
+INSERT INTO Advisor VALUES('石文昌', '0812Z1
+信息安全', '教授');
+INSERT INTO Advisor VALUES('秦波', '0812Z1
+信息安全', '副教授');
+INSERT INTO Advisor VALUES('黄建军', '0812Z1
+信息安全', '讲师');
+INSERT INTO Advisor VALUES('游伟', '0812Z1
+信息安全', '副教授');
+INSERT INTO Advisor VALUES('陈红', '0812Z2
+大数据科学与工程', '教授');
+INSERT INTO Advisor VALUES('何军', '0812Z2
+大数据科学与工程', '教授');
+INSERT INTO Advisor VALUES('覃雄派', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('李翠平', '0812Z2
+大数据科学与工程', '教授');
+INSERT INTO Advisor VALUES('覃飙', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('刘桃', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('王璞巍', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('杨刚', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('周春来', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('陈晋川', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('陈跃国', '0812Z2
+大数据科学与工程', '教授');
+INSERT INTO Advisor VALUES('赵素云', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('李锡荣', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('张延松', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('金琴', '0812Z2
+大数据科学与工程', '教授');
+INSERT INTO Advisor VALUES('刘家俊', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('张静', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('王明明', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('左美云', '120100
+管理科学与工程', '教授');
+INSERT INTO Advisor VALUES('孙彩虹', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('蒋洪迅', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('杨波', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('余力', '120100
+管理科学与工程', '教授');
+INSERT INTO Advisor VALUES('许伟', '120100
+管理科学与工程', '教授');
+INSERT INTO Advisor VALUES('张新勇', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('梁循', '120100
+管理科学与工程', '教授');
+INSERT INTO Advisor VALUES('余艳', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('张文平', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('杜玮', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('程絮森', '120100
+管理科学与工程', '教授');
+INSERT INTO Advisor VALUES('黄科满', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('孙亚辉', '081201
+计算机系统结构', '副教授');
+INSERT INTO Advisor VALUES('柴云鹏', '081201
+计算机系统结构', '教授');
+INSERT INTO Advisor VALUES('李彤', '081201
+计算机系统结构', '副教授');
+INSERT INTO Advisor VALUES('王晶', '081201
+计算机系统结构', '副教授');
+INSERT INTO Advisor VALUES('孟小峰', '081202
+计算机软件与理论', '教授');
+INSERT INTO Advisor VALUES('陈文萍', '081202
+计算机软件与理论', '讲师');
+INSERT INTO Advisor VALUES('李德英', '081202
+计算机软件与理论', '教授');
+INSERT INTO Advisor VALUES('王永才', '081202
+计算机软件与理论', '副教授');
+INSERT INTO Advisor VALUES('杜小勇', '081203
+计算机应用技术', '教授');
+INSERT INTO Advisor VALUES('王良', '081203
+计算机应用技术', '副教授');
+INSERT INTO Advisor VALUES('张孝', '081203
+计算机应用技术', '教授');
+INSERT INTO Advisor VALUES('许洁萍', '081203
+计算机应用技术', '副教授');
+INSERT INTO Advisor VALUES('刘青', '081203
+计算机应用技术', '副教授');
+INSERT INTO Advisor VALUES('胡鹤', '081203
+计算机应用技术', '副教授');
+INSERT INTO Advisor VALUES('王秋月', '081203
+计算机应用技术', '副教授');
+INSERT INTO Advisor VALUES('卢卫', '081203
+计算机应用技术', '教授');
+INSERT INTO Advisor VALUES('范举', '081203
+计算机应用技术', '教授');
+INSERT INTO Advisor VALUES('张峰', '081203
+计算机应用技术', '教授');
+INSERT INTO Advisor VALUES('梁彬', '0812Z1
+信息安全', '教授');
+INSERT INTO Advisor VALUES('石文昌', '0812Z1
+信息安全', '教授');
+INSERT INTO Advisor VALUES('秦波', '0812Z1
+信息安全', '副教授');
+INSERT INTO Advisor VALUES('黄建军', '0812Z1
+信息安全', '讲师');
+INSERT INTO Advisor VALUES('游伟', '0812Z1
+信息安全', '副教授');
+INSERT INTO Advisor VALUES('陈红', '0812Z2
+大数据科学与工程', '教授');
+INSERT INTO Advisor VALUES('何军', '0812Z2
+大数据科学与工程', '教授');
+INSERT INTO Advisor VALUES('覃雄派', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('李翠平', '0812Z2
+大数据科学与工程', '教授');
+INSERT INTO Advisor VALUES('覃飙', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('刘桃', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('王璞巍', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('杨刚', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('周春来', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('陈晋川', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('陈跃国', '0812Z2
+大数据科学与工程', '教授');
+INSERT INTO Advisor VALUES('赵素云', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('李锡荣', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('张延松', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('金琴', '0812Z2
+大数据科学与工程', '教授');
+INSERT INTO Advisor VALUES('刘家俊', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('张静', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('王明明', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('左美云', '120100
+管理科学与工程', '教授');
+INSERT INTO Advisor VALUES('孙彩虹', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('蒋洪迅', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('杨波', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('余力', '120100
+管理科学与工程', '教授');
+INSERT INTO Advisor VALUES('许伟', '120100
+管理科学与工程', '教授');
+INSERT INTO Advisor VALUES('张新勇', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('梁循', '120100
+管理科学与工程', '教授');
+INSERT INTO Advisor VALUES('余艳', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('张文平', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('杜玮', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('程絮森', '120100
+管理科学与工程', '教授');
+INSERT INTO Advisor VALUES('黄科满', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('孙亚辉', '081201
+计算机系统结构', '副教授');
+INSERT INTO Advisor VALUES('柴云鹏', '081201
+计算机系统结构', '教授');
+INSERT INTO Advisor VALUES('李彤', '081201
+计算机系统结构', '副教授');
+INSERT INTO Advisor VALUES('王晶', '081201
+计算机系统结构', '副教授');
+INSERT INTO Advisor VALUES('孟小峰', '081202
+计算机软件与理论', '教授');
+INSERT INTO Advisor VALUES('陈文萍', '081202
+计算机软件与理论', '讲师');
+INSERT INTO Advisor VALUES('李德英', '081202
+计算机软件与理论', '教授');
+INSERT INTO Advisor VALUES('王永才', '081202
+计算机软件与理论', '副教授');
+INSERT INTO Advisor VALUES('杜小勇', '081203
+计算机应用技术', '教授');
+INSERT INTO Advisor VALUES('王良', '081203
+计算机应用技术', '副教授');
+INSERT INTO Advisor VALUES('张孝', '081203
+计算机应用技术', '教授');
+INSERT INTO Advisor VALUES('许洁萍', '081203
+计算机应用技术', '副教授');
+INSERT INTO Advisor VALUES('刘青', '081203
+计算机应用技术', '副教授');
+INSERT INTO Advisor VALUES('胡鹤', '081203
+计算机应用技术', '副教授');
+INSERT INTO Advisor VALUES('王秋月', '081203
+计算机应用技术', '副教授');
+INSERT INTO Advisor VALUES('卢卫', '081203
+计算机应用技术', '教授');
+INSERT INTO Advisor VALUES('范举', '081203
+计算机应用技术', '教授');
+INSERT INTO Advisor VALUES('张峰', '081203
+计算机应用技术', '教授');
+INSERT INTO Advisor VALUES('梁彬', '0812Z1
+信息安全', '教授');
+INSERT INTO Advisor VALUES('石文昌', '0812Z1
+信息安全', '教授');
+INSERT INTO Advisor VALUES('秦波', '0812Z1
+信息安全', '副教授');
+INSERT INTO Advisor VALUES('黄建军', '0812Z1
+信息安全', '讲师');
+INSERT INTO Advisor VALUES('游伟', '0812Z1
+信息安全', '副教授');
+INSERT INTO Advisor VALUES('陈红', '0812Z2
+大数据科学与工程', '教授');
+INSERT INTO Advisor VALUES('何军', '0812Z2
+大数据科学与工程', '教授');
+INSERT INTO Advisor VALUES('覃雄派', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('李翠平', '0812Z2
+大数据科学与工程', '教授');
+INSERT INTO Advisor VALUES('覃飙', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('刘桃', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('王璞巍', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('杨刚', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('周春来', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('陈晋川', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('陈跃国', '0812Z2
+大数据科学与工程', '教授');
+INSERT INTO Advisor VALUES('赵素云', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('李锡荣', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('张延松', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('金琴', '0812Z2
+大数据科学与工程', '教授');
+INSERT INTO Advisor VALUES('刘家俊', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('张静', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('王明明', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('左美云', '120100
+管理科学与工程', '教授');
+INSERT INTO Advisor VALUES('孙彩虹', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('蒋洪迅', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('杨波', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('余力', '120100
+管理科学与工程', '教授');
+INSERT INTO Advisor VALUES('许伟', '120100
+管理科学与工程', '教授');
+INSERT INTO Advisor VALUES('张新勇', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('梁循', '120100
+管理科学与工程', '教授');
+INSERT INTO Advisor VALUES('余艳', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('张文平', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('杜玮', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('程絮森', '120100
+管理科学与工程', '教授');
+INSERT INTO Advisor VALUES('黄科满', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('孙亚辉', '081201
+计算机系统结构', '副教授');
+INSERT INTO Advisor VALUES('柴云鹏', '081201
+计算机系统结构', '教授');
+INSERT INTO Advisor VALUES('李彤', '081201
+计算机系统结构', '副教授');
+INSERT INTO Advisor VALUES('王晶', '081201
+计算机系统结构', '副教授');
+INSERT INTO Advisor VALUES('孟小峰', '081202
+计算机软件与理论', '教授');
+INSERT INTO Advisor VALUES('陈文萍', '081202
+计算机软件与理论', '讲师');
+INSERT INTO Advisor VALUES('李德英', '081202
+计算机软件与理论', '教授');
+INSERT INTO Advisor VALUES('王永才', '081202
+计算机软件与理论', '副教授');
+INSERT INTO Advisor VALUES('杜小勇', '081203
+计算机应用技术', '教授');
+INSERT INTO Advisor VALUES('王良', '081203
+计算机应用技术', '副教授');
+INSERT INTO Advisor VALUES('张孝', '081203
+计算机应用技术', '教授');
+INSERT INTO Advisor VALUES('许洁萍', '081203
+计算机应用技术', '副教授');
+INSERT INTO Advisor VALUES('刘青', '081203
+计算机应用技术', '副教授');
+INSERT INTO Advisor VALUES('胡鹤', '081203
+计算机应用技术', '副教授');
+INSERT INTO Advisor VALUES('王秋月', '081203
+计算机应用技术', '副教授');
+INSERT INTO Advisor VALUES('卢卫', '081203
+计算机应用技术', '教授');
+INSERT INTO Advisor VALUES('范举', '081203
+计算机应用技术', '教授');
+INSERT INTO Advisor VALUES('张峰', '081203
+计算机应用技术', '教授');
+INSERT INTO Advisor VALUES('梁彬', '0812Z1
+信息安全', '教授');
+INSERT INTO Advisor VALUES('石文昌', '0812Z1
+信息安全', '教授');
+INSERT INTO Advisor VALUES('秦波', '0812Z1
+信息安全', '副教授');
+INSERT INTO Advisor VALUES('黄建军', '0812Z1
+信息安全', '讲师');
+INSERT INTO Advisor VALUES('游伟', '0812Z1
+信息安全', '副教授');
+INSERT INTO Advisor VALUES('陈红', '0812Z2
+大数据科学与工程', '教授');
+INSERT INTO Advisor VALUES('何军', '0812Z2
+大数据科学与工程', '教授');
+INSERT INTO Advisor VALUES('覃雄派', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('李翠平', '0812Z2
+大数据科学与工程', '教授');
+INSERT INTO Advisor VALUES('覃飙', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('刘桃', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('王璞巍', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('杨刚', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('周春来', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('陈晋川', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('陈跃国', '0812Z2
+大数据科学与工程', '教授');
+INSERT INTO Advisor VALUES('赵素云', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('李锡荣', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('张延松', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('金琴', '0812Z2
+大数据科学与工程', '教授');
+INSERT INTO Advisor VALUES('刘家俊', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('张静', '0812Z2
+大数据科学与工程', '副教授');
+INSERT INTO Advisor VALUES('王明明', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('左美云', '120100
+管理科学与工程', '教授');
+INSERT INTO Advisor VALUES('孙彩虹', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('蒋洪迅', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('杨波', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('余力', '120100
+管理科学与工程', '教授');
+INSERT INTO Advisor VALUES('许伟', '120100
+管理科学与工程', '教授');
+INSERT INTO Advisor VALUES('张新勇', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('梁循', '120100
+管理科学与工程', '教授');
+INSERT INTO Advisor VALUES('余艳', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('张文平', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('杜玮', '120100
+管理科学与工程', '副教授');
+INSERT INTO Advisor VALUES('程絮森', '120100
+管理科学与工程', '教授');
+INSERT INTO Advisor VALUES('黄科满', '120100
+管理科学与工程', '副教授');

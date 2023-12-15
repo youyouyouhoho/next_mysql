@@ -1,0 +1,488 @@
+INSERT INTO CommitteeMembers VALUES('柴云鹏', '081201
+计算机系统结构', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('李彤', '081201
+计算机系统结构', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('王晶', '081201
+计算机系统结构', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('孟小峰', '081202
+计算机软件与理论', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('陈文萍', '081202
+计算机软件与理论', '讲师', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('李德英', '081202
+计算机软件与理论', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('王永才', '081202
+计算机软件与理论', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('杜小勇', '081203
+计算机应用技术', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('王良', '081203
+计算机应用技术', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('张孝', '081203
+计算机应用技术', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('许洁萍', '081203
+计算机应用技术', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('刘青', '081203
+计算机应用技术', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('胡鹤', '081203
+计算机应用技术', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('王秋月', '081203
+计算机应用技术', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('卢卫', '081203
+计算机应用技术', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('范举', '081203
+计算机应用技术', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('张峰', '081203
+计算机应用技术', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('梁彬', '0812Z1
+信息安全', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('石文昌', '0812Z1
+信息安全', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('秦波', '0812Z1
+信息安全', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('黄建军', '0812Z1
+信息安全', '讲师', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('游伟', '0812Z1
+信息安全', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('陈红', '0812Z2
+大数据科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('何军', '0812Z2
+大数据科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('覃雄派', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('李翠平', '0812Z2
+大数据科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('覃飙', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('刘桃', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('王璞巍', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('杨刚', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('周春来', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('陈晋川', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('陈跃国', '0812Z2
+大数据科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('赵素云', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('李锡荣', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('张延松', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('金琴', '0812Z2
+大数据科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('刘家俊', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('张静', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('王明明', '120100
+管理科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('左美云', '120100
+管理科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('孙彩虹', '120100
+管理科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('蒋洪迅', '120100
+管理科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('杨波', '120100
+管理科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('余力', '120100
+管理科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('许伟', '120100
+管理科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('张新勇', '120100
+管理科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('梁循', '120100
+管理科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('余艳', '120100
+管理科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('张文平', '120100
+管理科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('杜玮', '120100
+管理科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('程絮森', '120100
+管理科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('黄科满', '120100
+管理科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('付虹蛟', '120100
+管理科学与工程', '副教授', 'false', 'false');
+INSERT INTO CommitteeMembers VALUES('李倩', '120100
+管理科学与工程', '副教授', 'false', 'false');
+INSERT INTO CommitteeMembers VALUES('王俊杰', '120100
+管理科学与工程', '副教授', 'true', 'true');
+INSERT INTO CommitteeMembers VALUES('孙亚辉', '081201
+计算机系统结构', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('衣俊艳', '北京城市大学', '副教授', 'true', 'true');
+INSERT INTO CommitteeMembers VALUES('张晶晶', '中国传媒大学', '副教授', 'true', 'true');
+INSERT INTO CommitteeMembers VALUES('张蕾', '北京城市大学', '副教授', 'true', 'true');
+INSERT INTO CommitteeMembers VALUES('温宇俊', '中国传媒大学', '副教授', 'true', 'true');
+INSERT INTO CommitteeMembers VALUES('黄锐', '中央民族大学', '教授', 'true', 'true');
+INSERT INTO CommitteeMembers VALUES('董烨然', '首都经济贸易大学', '副教授', 'true', 'true');
+INSERT INTO CommitteeMembers VALUES('王生辉', '中央财经大学', '副教授', 'true', 'true');
+INSERT INTO CommitteeMembers VALUES('张弛', '中国传媒大学', '副教授', 'true', 'true');
+INSERT INTO CommitteeMembers VALUES('柴云鹏', '081201
+计算机系统结构', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('李彤', '081201
+计算机系统结构', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('王晶', '081201
+计算机系统结构', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('孟小峰', '081202
+计算机软件与理论', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('陈文萍', '081202
+计算机软件与理论', '讲师', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('李德英', '081202
+计算机软件与理论', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('王永才', '081202
+计算机软件与理论', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('杜小勇', '081203
+计算机应用技术', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('王良', '081203
+计算机应用技术', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('张孝', '081203
+计算机应用技术', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('许洁萍', '081203
+计算机应用技术', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('刘青', '081203
+计算机应用技术', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('胡鹤', '081203
+计算机应用技术', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('王秋月', '081203
+计算机应用技术', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('卢卫', '081203
+计算机应用技术', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('范举', '081203
+计算机应用技术', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('张峰', '081203
+计算机应用技术', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('梁彬', '0812Z1
+信息安全', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('石文昌', '0812Z1
+信息安全', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('秦波', '0812Z1
+信息安全', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('黄建军', '0812Z1
+信息安全', '讲师', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('游伟', '0812Z1
+信息安全', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('陈红', '0812Z2
+大数据科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('何军', '0812Z2
+大数据科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('覃雄派', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('李翠平', '0812Z2
+大数据科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('覃飙', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('刘桃', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('王璞巍', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('杨刚', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('周春来', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('陈晋川', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('陈跃国', '0812Z2
+大数据科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('赵素云', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('李锡荣', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('张延松', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('金琴', '0812Z2
+大数据科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('刘家俊', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('张静', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('王明明', '120100
+管理科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('左美云', '120100
+管理科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('孙彩虹', '120100
+管理科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('蒋洪迅', '120100
+管理科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('杨波', '120100
+管理科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('余力', '120100
+管理科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('许伟', '120100
+管理科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('张新勇', '120100
+管理科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('梁循', '120100
+管理科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('余艳', '120100
+管理科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('张文平', '120100
+管理科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('杜玮', '120100
+管理科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('程絮森', '120100
+管理科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('黄科满', '120100
+管理科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('付虹蛟', '120100
+管理科学与工程', '副教授', 'false', 'false');
+INSERT INTO CommitteeMembers VALUES('李倩', '120100
+管理科学与工程', '副教授', 'false', 'false');
+INSERT INTO CommitteeMembers VALUES('王俊杰', '120100
+管理科学与工程', '副教授', 'true', 'true');
+INSERT INTO CommitteeMembers VALUES('孙亚辉', '081201
+计算机系统结构', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('衣俊艳', '北京城市大学', '副教授', 'true', 'true');
+INSERT INTO CommitteeMembers VALUES('张晶晶', '中国传媒大学', '副教授', 'true', 'true');
+INSERT INTO CommitteeMembers VALUES('张蕾', '北京城市大学', '副教授', 'true', 'true');
+INSERT INTO CommitteeMembers VALUES('温宇俊', '中国传媒大学', '副教授', 'true', 'true');
+INSERT INTO CommitteeMembers VALUES('黄锐', '中央民族大学', '教授', 'true', 'true');
+INSERT INTO CommitteeMembers VALUES('董烨然', '首都经济贸易大学', '副教授', 'true', 'true');
+INSERT INTO CommitteeMembers VALUES('王生辉', '中央财经大学', '副教授', 'true', 'true');
+INSERT INTO CommitteeMembers VALUES('张弛', '中国传媒大学', '副教授', 'true', 'true');
+INSERT INTO CommitteeMembers VALUES('柴云鹏', '081201
+计算机系统结构', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('李彤', '081201
+计算机系统结构', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('王晶', '081201
+计算机系统结构', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('孟小峰', '081202
+计算机软件与理论', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('陈文萍', '081202
+计算机软件与理论', '讲师', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('李德英', '081202
+计算机软件与理论', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('王永才', '081202
+计算机软件与理论', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('杜小勇', '081203
+计算机应用技术', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('王良', '081203
+计算机应用技术', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('张孝', '081203
+计算机应用技术', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('许洁萍', '081203
+计算机应用技术', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('刘青', '081203
+计算机应用技术', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('胡鹤', '081203
+计算机应用技术', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('王秋月', '081203
+计算机应用技术', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('卢卫', '081203
+计算机应用技术', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('范举', '081203
+计算机应用技术', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('张峰', '081203
+计算机应用技术', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('梁彬', '0812Z1
+信息安全', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('石文昌', '0812Z1
+信息安全', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('秦波', '0812Z1
+信息安全', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('黄建军', '0812Z1
+信息安全', '讲师', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('游伟', '0812Z1
+信息安全', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('陈红', '0812Z2
+大数据科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('何军', '0812Z2
+大数据科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('覃雄派', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('李翠平', '0812Z2
+大数据科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('覃飙', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('刘桃', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('王璞巍', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('杨刚', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('周春来', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('陈晋川', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('陈跃国', '0812Z2
+大数据科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('赵素云', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('李锡荣', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('张延松', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('金琴', '0812Z2
+大数据科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('刘家俊', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('张静', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('王明明', '120100
+管理科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('左美云', '120100
+管理科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('孙彩虹', '120100
+管理科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('蒋洪迅', '120100
+管理科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('杨波', '120100
+管理科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('余力', '120100
+管理科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('许伟', '120100
+管理科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('张新勇', '120100
+管理科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('梁循', '120100
+管理科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('余艳', '120100
+管理科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('张文平', '120100
+管理科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('杜玮', '120100
+管理科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('程絮森', '120100
+管理科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('黄科满', '120100
+管理科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('付虹蛟', '120100
+管理科学与工程', '副教授', 'false', 'false');
+INSERT INTO CommitteeMembers VALUES('李倩', '120100
+管理科学与工程', '副教授', 'false', 'false');
+INSERT INTO CommitteeMembers VALUES('王俊杰', '120100
+管理科学与工程', '副教授', 'true', 'true');
+INSERT INTO CommitteeMembers VALUES('孙亚辉', '081201
+计算机系统结构', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('衣俊艳', '北京城市大学', '副教授', 'true', 'true');
+INSERT INTO CommitteeMembers VALUES('张晶晶', '中国传媒大学', '副教授', 'true', 'true');
+INSERT INTO CommitteeMembers VALUES('张蕾', '北京城市大学', '副教授', 'true', 'true');
+INSERT INTO CommitteeMembers VALUES('温宇俊', '中国传媒大学', '副教授', 'true', 'true');
+INSERT INTO CommitteeMembers VALUES('黄锐', '中央民族大学', '教授', 'true', 'true');
+INSERT INTO CommitteeMembers VALUES('董烨然', '首都经济贸易大学', '副教授', 'true', 'true');
+INSERT INTO CommitteeMembers VALUES('王生辉', '中央财经大学', '副教授', 'true', 'true');
+INSERT INTO CommitteeMembers VALUES('张弛', '中国传媒大学', '副教授', 'true', 'true');
+INSERT INTO CommitteeMembers VALUES('柴云鹏', '081201
+计算机系统结构', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('李彤', '081201
+计算机系统结构', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('王晶', '081201
+计算机系统结构', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('孟小峰', '081202
+计算机软件与理论', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('陈文萍', '081202
+计算机软件与理论', '讲师', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('李德英', '081202
+计算机软件与理论', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('王永才', '081202
+计算机软件与理论', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('杜小勇', '081203
+计算机应用技术', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('王良', '081203
+计算机应用技术', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('张孝', '081203
+计算机应用技术', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('许洁萍', '081203
+计算机应用技术', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('刘青', '081203
+计算机应用技术', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('胡鹤', '081203
+计算机应用技术', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('王秋月', '081203
+计算机应用技术', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('卢卫', '081203
+计算机应用技术', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('范举', '081203
+计算机应用技术', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('张峰', '081203
+计算机应用技术', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('梁彬', '0812Z1
+信息安全', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('石文昌', '0812Z1
+信息安全', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('秦波', '0812Z1
+信息安全', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('黄建军', '0812Z1
+信息安全', '讲师', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('游伟', '0812Z1
+信息安全', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('陈红', '0812Z2
+大数据科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('何军', '0812Z2
+大数据科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('覃雄派', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('李翠平', '0812Z2
+大数据科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('覃飙', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('刘桃', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('王璞巍', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('杨刚', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('周春来', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('陈晋川', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('陈跃国', '0812Z2
+大数据科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('赵素云', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('李锡荣', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('张延松', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('金琴', '0812Z2
+大数据科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('刘家俊', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('张静', '0812Z2
+大数据科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('王明明', '120100
+管理科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('左美云', '120100
+管理科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('孙彩虹', '120100
+管理科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('蒋洪迅', '120100
+管理科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('杨波', '120100
+管理科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('余力', '120100
+管理科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('许伟', '120100
+管理科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('张新勇', '120100
+管理科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('梁循', '120100
+管理科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('余艳', '120100
+管理科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('张文平', '120100
+管理科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('杜玮', '120100
+管理科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('程絮森', '120100
+管理科学与工程', '教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('黄科满', '120100
+管理科学与工程', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('付虹蛟', '120100
+管理科学与工程', '副教授', 'false', 'false');
+INSERT INTO CommitteeMembers VALUES('李倩', '120100
+管理科学与工程', '副教授', 'false', 'false');
+INSERT INTO CommitteeMembers VALUES('王俊杰', '120100
+管理科学与工程', '副教授', 'true', 'true');
+INSERT INTO CommitteeMembers VALUES('孙亚辉', '081201
+计算机系统结构', '副教授', 'true', 'false');
+INSERT INTO CommitteeMembers VALUES('衣俊艳', '北京城市大学', '副教授', 'true', 'true');
+INSERT INTO CommitteeMembers VALUES('张晶晶', '中国传媒大学', '副教授', 'true', 'true');
+INSERT INTO CommitteeMembers VALUES('张蕾', '北京城市大学', '副教授', 'true', 'true');
+INSERT INTO CommitteeMembers VALUES('温宇俊', '中国传媒大学', '副教授', 'true', 'true');
+INSERT INTO CommitteeMembers VALUES('黄锐', '中央民族大学', '教授', 'true', 'true');
+INSERT INTO CommitteeMembers VALUES('董烨然', '首都经济贸易大学', '副教授', 'true', 'true');
+INSERT INTO CommitteeMembers VALUES('王生辉', '中央财经大学', '副教授', 'true', 'true');
+INSERT INTO CommitteeMembers VALUES('张弛', '中国传媒大学', '副教授', 'true', 'true');
