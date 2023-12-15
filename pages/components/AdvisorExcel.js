@@ -103,7 +103,7 @@ import { UploadOutlined } from '@ant-design/icons';
                 : [];
 
         return (
-            <div style={{ marginTop: '20px', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+            <div >
                 <Upload
                     onRemove={(file) => {
                         this.setState(({ fileList }) => {
