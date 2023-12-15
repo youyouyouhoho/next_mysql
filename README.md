@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+== 务必修改pages\db.js ==
+## 登陆 
+用户名：user
+密码：password
+## 结构
+前六个用来上传文件
+最后一个用于查看，下载，编辑表
 ## Getting Started
 
 First, run the development server:
